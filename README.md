@@ -1,2 +1,5 @@
 ### Hi there 👋
-I'm Nithin Krishna, I'm an full stack web developer.
+I'm Nithin Krishna
+
+![Alt text](./assets/svgs/javascript.svg)
+<img src="./assets/svgs/javascript.svg">

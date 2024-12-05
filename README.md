@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nithinkr1shna/nithinkr1shna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +18,6 @@ Here are some ideas to get you started:
 --->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
+
+### Hi there 👋
 
